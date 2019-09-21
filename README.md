@@ -9,7 +9,7 @@
 ## How TO Use it?
   Simple, cukup run aja pake golang :v
 
-## Needed 
+## Need :
   - [Golang](https://golang.org/)
   - Your Connection
   - Your Brain
